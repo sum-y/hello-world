@@ -1,2 +1,3 @@
 # hello-world
-first repository ever
+
+If you are reading this, but you are wasting your time.
