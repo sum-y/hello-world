@@ -1,3 +1,3 @@
 # hello-world
 
-If you are reading this, but you are wasting your time.
+If you are reading this, you are wasting your time.
